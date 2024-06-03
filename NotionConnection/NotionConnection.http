@@ -1,0 +1,6 @@
+@NotionConnection_HostAddress = http://localhost:5213
+
+GET {{NotionConnection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
